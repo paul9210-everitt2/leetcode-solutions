@@ -10,3 +10,6 @@ Personal development log — notes, findings, and ongoing work.
 - Investigated performance bottleneck, noted findings
 - Noted known limitation in docs
 - Verified API endpoint response schema
+
+## 2026-04-15
+- Added basic usage examples to README
